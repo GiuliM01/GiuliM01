@@ -2,22 +2,33 @@
 
 Apasionada por la tecnología y el aprendizaje continuo. Me gusta explorar distintas áreas de IT, desde el desarrollo de software hasta la nube y el analisis de datos. Disfruto trabajar en proyectos que combinan creatividad, lógica y buenas prácticas, siempre buscando mejorar y aprender algo nuevo cada día. 🚀
 
-```Julia
-module main
+```csharp
 
-aboutMe :: struct {
-  lenguajes :: string[];
-  base_de_datos :: string;
-}
+namespace readme
+{
+    class MainModule
+    {
+        static void Main(string[] args)
+        {
+            Console.WriteLine("🚀 Welcome to my Tech Stack Overview!");
+            Console.WriteLine("====================================");
 
-main :: func(): void {
-  ethan :: aboutMe = {
-    lenguajes: ["C#", "Java", "Python"],
-    base_de_datos: ["Sql Server", "MySQl"],
-  };
+            Console.WriteLine("\n💻 Languages:");
+            Console.WriteLine("C#, Java, JavaScript, HTML5, CSS3, Python");
 
-  println "Lenguajes I Know: ${ethan.lenguajes}";
-  println "Base de Datos: ${ethan.base_de_datos}";
+            Console.WriteLine("\n🗄️ Databases:");
+            Console.WriteLine("SQL Server, MySQL");
+
+            Console.WriteLine("\n☁️ Cloud & DevOps:");
+            Console.WriteLine("AWS, GitHub Actions");
+
+            Console.WriteLine("\n📊 Data Analysis Tools:");
+            Console.WriteLine("Pandas, NumPy, Power BI, Excel");
+
+            Console.WriteLine("\n🔧 Other Tools:");
+            Console.WriteLine("Git, Visual Studio, VS Code");
+        }
+    }
 }
 ```
 
