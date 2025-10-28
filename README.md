@@ -38,47 +38,47 @@ namespace readme
     <tr valign="top">
       <td width="25%" align="center">
         <span>.NET</span><br><br><br>
-        <img height="64px" src="https://icongr.am/devicon/dot-net-original.svg?size=128&color=currentColor">
+        <img height="50px" src="https://icongr.am/devicon/dot-net-original-wordmark.svg?size=128&color=currentColor">
       </td>
       <td width="25%" align="center">
         <span>𝗖#</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/c-sharp.svg">
+        <img height="50px" src="https://cdn.svgporn.com/logos/c-sharp.svg">
       </td>
       <td width="25%" align="center">
         <span>𝗝𝗮𝘃𝗮</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/java.svg">
+        <img height="50px" src="https://cdn.svgporn.com/logos/java.svg">
       </td>
       <td width="25%" align="center">
         <span>𝗣𝘆𝘁𝗵𝗼𝗻</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/python.svg">
+        <img height="50px" src="https://cdn.svgporn.com/logos/python.svg">
       </td>
     </tr>
     <tr valign="top">
       <td width="25%" align="center">
         <span>𝗚𝗶𝘁</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/git-icon.svg">
+        <img height="50px" src="https://cdn.svgporn.com/logos/git-icon.svg">
       </td>
       <td width="25%" align="center">
         <span>𝗩𝗶𝘀𝘂𝗮𝗹 𝗦𝘁𝘂𝗱𝗶𝗼 𝗖𝗼𝗱𝗲</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/visual-studio-code.svg">
+        <img height="50px" src="https://cdn.svgporn.com/logos/visual-studio-code.svg">
       </td>
       <td width="25%" align="center">
         <span>𝗩𝗶𝘀𝘂𝗮𝗹 𝗦𝘁𝘂𝗱𝗶𝗼</span><br><br><br>
-        <img height="64px" src="https://icongr.am/devicon/visualstudio-plain-wordmark.svg?size=128&color=currentColor">
+        <img height="50px" src="https://icongr.am/devicon/visualstudio-plain.svg?size=128&color=currentColor">
       </td>
     </tr>
     <tr valign="top">
       <td width="25%" align="center">
         <span>MYSQL</span><br><br><br>
-        <img height="64px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
+        <img height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
       </td>
       <td width="25%" align="center">
         <span>SQL</span><br><br><br>
-        <img height="64px" src="https://techicons.dev/icons/microsoftsqlserver">
+        <img height="50px" src="https://techicons.dev/icons/microsoftsqlserver">
       </td>
       <td width="25%" align="center">
         <span>AWS</span><br><br><br>
-        <img height="64px" src="https://icongr.am/devicon/amazonwebservices-original-wordmark.svg?size=128&color=currentColor">
+        <img height="50px" src="https://icongr.am/devicon/amazonwebservices-plain-wordmark.svg?size=128&color=currentColor">
       </td>
     </tr>
   </tbody>
