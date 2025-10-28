@@ -26,8 +26,8 @@ main :: func(): void {
   <tbody>
     <tr valign="top">
       <td width="25%" align="center">
-        <span>HTML</span><br><br><br>
-        <img height="64px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/aarch64/aarch64-original.svg">
+        <span>MYSQL</span><br><br><br>
+        <img height="64px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
       </td>
       <td width="25%" align="center">
         <span>𝗖#</span><br><br><br>
