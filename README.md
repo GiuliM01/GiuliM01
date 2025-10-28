@@ -1,3 +1,5 @@
+<div align="center">
+
 👋 ¡Hola! Soy Giuliana
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.comcolor=80ffaa&size=26&center=true&vCenter=true&lines=Desarrolladora+Full+Stack;Apasionada+por+la+tecnología+y+la+nube;Aprendiendo+y+creciendo+cada+día🚀)](https://git.io/typing-svg)
@@ -36,9 +38,13 @@ namespace readme
 
 
 🛠️ Technologies & Tools
-<p align="center"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="45"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="45"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="45"/> <img src="https://icongr.am/devicon/amazonwebservices-original.svg?size=128&color=currentColor" width="45"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="45"/> </p>
+<p align="center"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="45"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="45"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="45"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="45"/> </p>
 ☁️ Cloud & Data
-<p align="center"> <img src="https://techicons.dev/icons/pandas.svg" width="45"/> <img src="https://techicons.dev/icons/numpy.svg" width="45"/> </p>
+<p align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg" width="45" alt="Pandas" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/31/NumPy_logo_2020.svg" width="45" alt="NumPy" />
+  <img src="https://icongr.am/devicon/amazonwebservices-original.svg?size=128&color=currentColor" width="45"/> 
+</p>
 
 
 📫 Contactame
