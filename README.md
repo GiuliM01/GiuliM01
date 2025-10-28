@@ -1,8 +1,4 @@
-<div align="center">
-
 👋 ¡Hola! Soy Giuliana
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.comcolor=80ffaa&size=26&center=true&vCenter=true&lines=Desarrolladora+Full+Stack;Apasionada+por+la+tecnología+y+la+nube;Aprendiendo+y+creciendo+cada+día🚀)](https://git.io/typing-svg)
 
 Apasionada por la tecnología y el aprendizaje continuo. Me gusta explorar distintas áreas de IT, desde el desarrollo de software hasta la nube y el analisis de datos. Disfruto trabajar en proyectos que combinan creatividad, lógica y buenas prácticas, siempre buscando mejorar y aprender algo nuevo cada día. 🚀
 
