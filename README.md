@@ -40,4 +40,4 @@ namespace readme
 
 
 📫 Contactame
-<p align="center"> <a href="giuliana_muller@outlook.com"><img src="https://img.shields.io/badge/Email-80ffaa?style=for-the-badge&logo=gmail&logoColor=white" /></a> <a href="https://www.linkedin.com/in/giumuller/" target="_blank">LinkedIn</a><img src="https://img.shields.io/badge/LinkedIn-0077b5?style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="github.com/GiuliM01"><img src="https://img.shields.io/badge/GitHub-24292e?style=for-the-badge&logo=github&logoColor=white" /></a> </p>
+<p align="center"> <a href="giuliana_muller@outlook.com"><img src="https://img.shields.io/badge/Email-80ffaa?style=for-the-badge&logo=gmail&logoColor=white" /></a> <a href="https://www.linkedin.com/in/giumuller/"><img src="https://img.shields.io/badge/LinkedIn-0077b5?style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="github.com/GiuliM01"><img src="https://img.shields.io/badge/GitHub-24292e?style=for-the-badge&logo=github&logoColor=white" /></a> </p>
