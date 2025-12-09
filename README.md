@@ -2,35 +2,6 @@
 
 Apasionada por la tecnología y el aprendizaje continuo. Me gusta explorar distintas áreas de IT, desde el desarrollo de software hasta la nube y el análisis de datos. Disfruto trabajar en proyectos que combinan creatividad, lógica y buenas prácticas, siempre buscando mejorar y aprender algo nuevo cada día. 🚀
 
-```csharp
-
-namespace readme
-{
-    class MainModule
-    {
-        static void Main(string[] args)
-        {
-            Console.WriteLine("🚀 Welcome to my Tech Stack Overview!");
-            Console.WriteLine("====================================");
-
-            Console.WriteLine("\n💻 Languages:");
-            Console.WriteLine("C#, Java, JavaScript, HTML5, CSS3, Python");
-
-            Console.WriteLine("\n🗄️ Databases:");
-            Console.WriteLine("SQL Server, MySQL");
-
-            Console.WriteLine("\n☁️ Cloud:");
-            Console.WriteLine("AWS, GitHub Actions");
-
-            Console.WriteLine("\n📊 Data Analysis Tools:");
-            Console.WriteLine("Pandas, NumPy, Power BI, Excel");
-
-            Console.WriteLine("\n🔧 Other Tools:");
-            Console.WriteLine("Git, Visual Studio, VS Code");
-        }
-    }
-}
-```
 
 
 🛠️ Technologies & Tools
