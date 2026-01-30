@@ -16,7 +16,7 @@ Estoy incorporando mejoras visuales siguiendo el criterio de diseño que realizo
 
 🔗 Repositorio del proyecto:
 
-https://github.com/Walt-exe/Generar-ECO
+https://github.com/GiuliM01/Generar-Eco
 
 ---
 # Contacto
